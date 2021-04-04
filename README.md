@@ -23,6 +23,4 @@ Try './tree --help' to understand bc
   
     ------- Miscellaneous options -------
     
-  --version     Print version and exit.
-  
-  --help        Print usage and this help message and exit.
+  --version, --help
