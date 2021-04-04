@@ -4,7 +4,7 @@ To compile the code, give the command : make all
 
 To run the code : ./tree OPTION FOLDERNAME
 
-Try './tree --help' to understand bc
+Try './tree --help' to understand tree
 
   ------- Listing options -------
   
